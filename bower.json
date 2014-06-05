@@ -1,0 +1,9 @@
+{
+  "name": "vangularjs-meetup-november-13-2013",
+  "description": "First Go Of This AngularJS Meetup Thingy",
+  "version": "0.0.0",
+  "author": "AngularJS Vancouver <http://www.meetup.com/vanangularJS>",
+  "license": "MIT",
+  "dependencies": {}
+}
+
